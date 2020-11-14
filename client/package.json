@@ -14,6 +14,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "~9.0.5",
+    "@angular/cdk": "^11.0.0",
     "@angular/common": "~9.0.5",
     "@angular/compiler": "~9.0.5",
     "@angular/core": "~9.0.5",
@@ -22,6 +23,7 @@
     "@angular/platform-browser": "~9.0.5",
     "@angular/platform-browser-dynamic": "~9.0.5",
     "@angular/router": "~9.0.5",
+    "bootstrap": "^4.5.3",
     "lint-staged": "^10.5.1",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
